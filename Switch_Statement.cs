@@ -12,7 +12,7 @@ namespace ConsoleApp20
         static void Main(string[] args)
         {
             /*
-             Switch stetment
+             Switch statement
           
 
             سویچ کەیس وەک یف کوندیشنە .وە لێرەدا مامەلە لەگەل پارامیتەر دەکرێت ستێپ ستێپ 
@@ -32,19 +32,19 @@ namespace ConsoleApp20
                   statement
             break;
              case Expression 1:
-                  stetment
+                  statement
             break;
              case Expression 2:
-                  stetment
+                  statement
             break;
              case Expression 3:
-                  stetment
+                  statement
             break;
             ...
             ...
             ...
             defualt:
-            stetment;
+            statement;
             break;
 
             */
@@ -79,6 +79,12 @@ namespace ConsoleApp20
             }
             //run=ten
 
+
+            /*
+             لێرەدا من تەنها شێوازی کارکردنەکەیم رونکردوتەوە بە نموونەیەکی سادە
+            گەر دەتەوێت زیاتر فێربی نموونەی زیاتری لەسەر تاقیبکەوە تا توشی هەلە ببیت و
+                                                          بەتەواوی لەهەلەکانتەوە فێربی 
+             */
 
 
         }
